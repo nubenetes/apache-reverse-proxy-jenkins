@@ -1,7 +1,7 @@
 # Apache Reverse Proxy for Jenkins
-Reverse Proxy configuration with HTTPS for **Jenkins**, **Sonarqube** and **Nexus**. Based on RHEL 7 Apache config.
+Reverse Proxy configuration with HTTPS for **Jenkins**, **Sonarqube** and **Nexus**. Based on CentOS 7.8 Apache config (equivalent to RHEL 7.8).
 
-This repo contains the configuration files of RHEL 7 Apache available in /etc/httpd. They have been modified in order to set up Apache as reverse proxy for:
+This repo contains the configuration files of CentOS 7.8 Apache available in /etc/httpd. They have been modified in order to set up Apache as reverse proxy for:
 
 | Tool      |                                      URL |
 | :-------- | ---------------------------------------: |
